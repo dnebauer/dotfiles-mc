@@ -1,4 +1,3 @@
-vcsh-mc
-=======
+# dotfiles-mc
 
-Personal Midnight Commander configuration in a vcsh repository.
+Personal Midnight Commander configuration.
